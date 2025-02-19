@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">The 149 Store</string>
+    <string name="title_activity_main">The 149 Store</string>
+    <string name="package_name">com.the149.store</string>
+    <string name="custom_url_scheme">com.the149.store</string>
+</resources>
